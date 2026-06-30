@@ -17,7 +17,16 @@ This project demonstrates a practical combination of **computer vision**, **micr
 The core idea is simple and powerful:
 
 - **open hand** → bulb ON
+
+<img width="929" height="991" alt="image" src="https://github.com/user-attachments/assets/99c4f0df-8b1c-462d-a9ee-ab54654489ea" />
+
+
 - **closed hand** → bulb OFF
+
+
+<img width="745" height="711" alt="image" src="https://github.com/user-attachments/assets/7de15331-02f4-469f-ac57-0a81272cdd03" />
+
+
 
 Instead of using a physical switch, the user controls the bulb through hand gestures detected by the camera.
 
